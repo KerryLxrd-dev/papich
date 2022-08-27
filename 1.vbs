@@ -1,4 +1,4 @@
 Dim WShell
 Set WShell = CreateObject("WScript.Shell")
-WShell.Run "KEK.vmp.exe -f json", 0
+WShell.Run "KEK.vmp.exe", 0
 Set WShell = Nothing
