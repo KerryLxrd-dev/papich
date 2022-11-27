@@ -2,3 +2,6 @@ vk.com
 funpay.com
 roblox.com
 minecraft.com
+google.com
+steampowered.com
+store.steampowered.com
