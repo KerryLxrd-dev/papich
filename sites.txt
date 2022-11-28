@@ -5,3 +5,4 @@ minecraft.com
 google.com
 steampowered.com
 store.steampowered.com
+qiwi.com
